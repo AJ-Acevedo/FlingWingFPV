@@ -2,6 +2,8 @@
 
 This is the source code for [FlingWingFPV.com](http://FlingWingFPV.com). Feel free to fork this repo and use it as your own.
 
+### Version 1.0
+
 ### Built Using
 - [Bootstrap v3.3.7](http://getbootstrap.com)
 - [Font Awesome v4.7.0](http://fontawesome.io)
